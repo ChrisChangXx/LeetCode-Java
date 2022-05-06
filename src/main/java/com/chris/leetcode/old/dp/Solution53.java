@@ -1,4 +1,4 @@
-package com.chris.prac.leetcode.dp;
+package com.chris.leetcode.old.dp;
 
 /**
  * solution53

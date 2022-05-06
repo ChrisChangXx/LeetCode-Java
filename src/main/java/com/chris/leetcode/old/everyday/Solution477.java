@@ -1,4 +1,4 @@
-package com.chris.prac.leetcode.everyday;
+package com.chris.leetcode.old.everyday;
 
 /**
  * solution477
