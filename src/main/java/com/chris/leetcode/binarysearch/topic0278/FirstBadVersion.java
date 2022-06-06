@@ -3,7 +3,7 @@ package com.chris.leetcode.binarysearch.topic0278;
 /**
  * @创建人 zhanghui
  * @创建时间 2022/5/6
- * @描述
+ * @描述 第一个错误版本
  */
 public class FirstBadVersion {
 
