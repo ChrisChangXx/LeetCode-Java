@@ -3,7 +3,7 @@ package com.chris.leetcode.binarysearch.topic0704;
 /**
  * @创建人 zhanghui
  * @创建时间 2022/5/6
- * @描述
+ * @描述 二分查找
  */
 public class BinarySearch {
 
