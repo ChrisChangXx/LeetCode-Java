@@ -3,7 +3,7 @@ package com.chris.leetcode.binarysearch.topic0035;
 /**
  * @创建人 zhanghui
  * @创建时间 2022/5/6
- * @描述
+ * @描述 搜索插入位置
  */
 public class SearchInsert {
 
